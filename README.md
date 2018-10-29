@@ -9,8 +9,6 @@ CONTENT
 	Approach to problem solving
 I. About us
 Team Name: UIT Departure
-Team Menbers: Vuong Ho Ngoc – Computer Science Loc Vo Van – Computer Science
-Ngan Le Thi Phuong - Software Engineer Phuc Hoang Ngo - Software Engineer
 II. Overview
 Designing a system/algorithm to analyze the layout of Vietnamese document image 
 (respect to magazine).
